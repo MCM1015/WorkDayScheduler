@@ -21,7 +21,7 @@ All you need to use the workday scheduler is internet access and a web browser!
 Follow this link (https://mcm1015.github.io/WorkDayScheduler/.)
 
 Website Preview: 
-![Code Quiz](./assets/images/x)
+![Work Day Scheduler](./assets/images/x)
 
 If you want to view the working code follow this link [HTML CODE](index.html), [JavaScript](./assets/js/script.js) and this link [CSS CODE](./assets/css/style.css)
 
