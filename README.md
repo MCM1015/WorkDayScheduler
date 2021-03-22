@@ -23,9 +23,23 @@ Follow this link (https://mcm1015.github.io/WorkDayScheduler/.)
 Website Preview: 
 ![Work Day Scheduler](./assets/images/x)
 
-If you want to view the working code follow this link [HTML CODE](index.html), [JavaScript](./assets/js/script.js) and this link [CSS CODE](./assets/css/style.css)
+If you want to view the working code follow this link [HTML CODE](index.html), [JavaScript](./Assets/js/script.js) and this link [CSS CODE](./Assets/css/style.css)
 
 # Credits
+https://momentjs.com/
+
+https://www.tutorialrepublic.com/html-tutorial/html-tables.php
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+https://api.jquery.com/jquery.each/
+
+https://api.jquery.com/category/traversing/tree-traversal/
+
+https://api.jquery.com/category/manipulation/class-attribute/
+
+https://www.tiny.cloud/blog/javascript-localstorage/
+
 
 
 # License
