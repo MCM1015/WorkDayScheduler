@@ -40,6 +40,9 @@ https://api.jquery.com/category/manipulation/class-attribute/
 
 https://www.tiny.cloud/blog/javascript-localstorage/
 
+https://www.itsolutionstuff.com/post/jquery-moment-convert-string-to-date-exampleexample.html
+
+https://codepen.io/mmousawy/pen/LedZPa
 
 
 # License
