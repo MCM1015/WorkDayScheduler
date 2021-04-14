@@ -48,3 +48,7 @@ https://codepen.io/mmousawy/pen/LedZPa
 # License
 
 The [MIT](LICENSE) license was chosen for this project. 
+
+# Contact Me
+
+Email: Mary.C.McClernan@gmail.com
